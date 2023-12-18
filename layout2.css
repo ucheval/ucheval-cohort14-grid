@@ -1,0 +1,148 @@
+
+.container, .col-md-7, .col-md-12{
+    border: 10px solid #444444;
+    text-align: center;
+    
+    
+}
+
+.cont{
+    height: 68vh;
+}
+
+
+
+/* header */
+.col-12{
+    background-color: rgba(143, 85, 215, 0.989);
+    border-top: 5px solid rgb(68, 68, 68);
+    border-left: 10px solid rgb(68, 68, 68);
+    border-bottom: 5px solid rgb(68, 68, 68);
+    border-right: 10px solid rgb(68, 68, 68);
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+     
+}
+
+.col-12 .colour{
+    margin: 0px -12px;
+}
+
+
+
+
+/* side bar */
+
+.col-md-3{
+    border-top: 10px solid rgb(68, 68, 68);
+    border-left: 10px solid rgb(68, 68, 68);
+    border-bottom: 10px solid rgb(68, 68, 68);
+    border-right: 10px solid rgb(68, 68, 68);
+    background-color: #35e4aa;
+    height: 68vh;
+    line-height: 500px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    
+     
+}
+
+.col-md-3 .colour{
+    margin-right: -13px;
+    margin-left: -13px;
+    margin-bottom: 150px;
+    height: 66vh;
+}
+
+/* main -content  */
+
+.mb {
+    background-image: linear-gradient(to bottom right, rgba(122, 51, 209, 0.989),   #35e4aae8 );
+    margin-right: -13px;
+    margin-left: -13px;
+    line-height: 250px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    
+    
+}
+
+
+/* second content box */
+.col-md{
+    border-top: 10px solid rgb(68, 68, 68);
+    border-bottom: 5px solid #444444;
+    background-image: linear-gradient(to bottom right, rgba(122, 51, 209, 0.989),   #35e4aae8 );
+    line-height: 150px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold; 
+
+}
+
+.col-md .colour{
+    margin-left: -13px;
+    margin-right: -13px;
+    
+   
+    
+    
+}
+
+/* last box */
+.col-md-6{
+    border-top: 15px solid #444444;
+    border-left: 10px solid #444444;
+    border-bottom: 5px solid rgb(68, 68, 68);
+    background-image: linear-gradient(to bottom right, rgba(122, 51, 209, 0.989),   #35e4aae8 );
+    line-height: 150px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    /* margin-bottom: -10px; */
+       
+}
+
+.col-md-6 .colour {
+    
+    margin: 0px -13px;
+    /* padding-bottom: 19px; */
+}
+
+
+
+.cont{
+    border: 10px solid #444444;
+    
+}
+
+
+
+.col-md{
+    border-top: 15px solid rgb(68, 68, 68);
+    border-right: 10px solid #444444;
+    /* height: 27.2vh; */
+}
+
+.foot{
+    background-color: rgba(143, 85, 215, 0.989);
+    border-left: 10px solid #444444;
+    border-right: 10px solid #444444;
+    border-top: 5px solid #444444;
+    border-bottom: 5px solid #444444;
+}
+
+.colour{
+    border: 5px solid black;
+    
+}
+
+.col> .colour{
+  margin: 0px -12px;
+}
+
+
+
